@@ -16,7 +16,7 @@ from models.Blending import Blending
 
 def main(args):
     ii2s = Embedding(args)
-    #
+    # 
     # ##### Option 1: input folder
     # # ii2s.invert_images_in_W()
     # # ii2s.invert_images_in_FS()
