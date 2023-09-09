@@ -137,3 +137,4 @@ wandb/
 .idea
 cache
 pretrained_models/seg.pth
+.DS_Store
